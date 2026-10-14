@@ -18,4 +18,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-See the [publications](/publications/) page for a full list of books, articles, reviews and edited volumes.
+See the [publications](/publications/) page for a full list of books, articles, reviews and edited volumes, and the [talks](/talks/) page for conference papers and invited lectures since 1979.

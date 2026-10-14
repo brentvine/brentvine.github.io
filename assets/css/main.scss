@@ -1,0 +1,225 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+/* Built-in Sass modules you’ll likely use across partials */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure your design tokens BEFORE loading any of your partials.
+   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
+@use "variables" with (
+  $max-content-width: {{site.max_width | default: "930px"}}
+);
+
+/* Your project partials — convert these files to `@use "variables";`
+   (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+// -----------------------------------------------------------------------------
+// Site-specific additions (local override of al_folio_core's main.scss).
+// -----------------------------------------------------------------------------
+
+// Typeface: Brill when the visitor has it installed (its free licence does not
+// cover serving it as a web font); otherwise Gentium Book Plus (SIL OFL, loaded
+// via third_party_libraries.google_fonts), which covers polytonic Greek, Latin
+// diacritics and combining marks such as r̥ and i̯.
+$cv-font-stack: "Brill", "Gentium Book Plus", "Gentium Plus", "Noto Serif", serif;
+
+body,
+.navbar,
+.btn,
+input,
+button,
+select,
+textarea {
+  font-family: $cv-font-stack;
+}
+
+body {
+  font-weight: 400;
+  font-size: 1.0625rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title {
+  font-family: $cv-font-stack;
+  font-weight: 400;
+}
+
+// CV-derived list pages (publications, talks, students, teaching, news)
+.cv-toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.cv-section {
+  margin-bottom: 2.5rem;
+
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  h3 {
+    font-size: 1.1rem;
+    font-style: italic;
+    margin: 1.25rem 0 0.5rem;
+  }
+}
+
+.cv-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.cv-entry {
+  display: grid;
+  grid-template-columns: 6.5rem 1fr;
+  gap: 0.75rem;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+.cv-label {
+  font-weight: 600;
+  color: var(--global-theme-color);
+  white-space: nowrap;
+}
+
+.cv-meta {
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+}
+
+.cv-sub {
+  margin: 0.35rem 0 0 1rem;
+  padding-left: 0;
+  list-style: none;
+  font-size: 0.95rem;
+}
+
+.cv-sub-title {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--global-text-color-light);
+  margin-top: 0.35rem;
+}
+
+.cv-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  line-height: 1.4;
+  padding: 0 0.45rem;
+  margin-left: 0.35rem;
+  border: 1px solid var(--global-theme-color);
+  border-radius: 3px;
+  color: var(--global-theme-color);
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.cv-badge-lead {
+  margin: 0 0.4rem 0 0;
+}
+
+.cv-links {
+  margin-top: 0.3rem;
+
+  a {
+    display: inline-block;
+    font-size: 0.75rem;
+    padding: 0.05rem 0.5rem;
+    margin-right: 0.35rem;
+    border: 1px solid var(--global-text-color-light);
+    border-radius: 3px;
+    color: var(--global-text-color);
+
+    &:hover {
+      border-color: var(--global-theme-color);
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+}
+
+.cv-columns {
+  columns: 2 18rem;
+  column-gap: 2.5rem;
+  padding-left: 1.1rem;
+
+  li {
+    break-inside: avoid;
+    margin-bottom: 0.3rem;
+  }
+}
+
+// Search box above the list pages (assets/js/list-filter.js)
+.cv-search {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  margin-bottom: 1.5rem;
+
+  input {
+    flex: 1 1 18rem;
+    padding: 0.45rem 0.75rem;
+    font-size: 1rem;
+    color: var(--global-text-color);
+    background: var(--global-bg-color);
+    border: 1px solid var(--global-text-color-light);
+    border-radius: 4px;
+
+    &:focus {
+      outline: none;
+      border-color: var(--global-theme-color);
+    }
+  }
+
+  label {
+    margin: 0;
+    white-space: nowrap;
+  }
+}
+
+.cv-search-count {
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+}
+
+.cv-hidden {
+  display: none !important;
+}
+
+@media (max-width: 576px) {
+  .cv-entry {
+    grid-template-columns: 1fr;
+    gap: 0.1rem;
+  }
+}

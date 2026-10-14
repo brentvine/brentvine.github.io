@@ -2,14 +2,28 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false # hidden for now
-nav_order: 6
-calendar: true
+description: Courses taught at UCLA, Princeton, Yale and elsewhere.
+nav: true
+nav_order: 5
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+<!-- _pages/teaching.md: courses live in _data/teaching.yml (generated from the CV) -->
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+<div class="cv-search" data-filter-scope="#teaching-list">
+  <input type="search" data-filter-input placeholder="Search courses (Latin, Sanskrit, meter…)" aria-label="Search courses">
+  <span class="cv-search-count" data-filter-count></span>
+</div>
 
-{% include courses.liquid %}
+<div id="teaching-list">
+{% for group in site.data.teaching.groups %}
+  <section class="cv-section" id="{{ group.title | slugify }}" data-filter-group>
+    <h2>{{ group.title }}</h2>
+    <ul class="cv-columns">
+    {% for course in group.courses %}<li data-filter-item>{{ course }}</li>
+    {% endfor %}
+    </ul>
+  </section>
+{% endfor %}
+</div>
+
+<script src="{{ '/assets/js/list-filter.js' | relative_url | bust_file_cache }}"></script>
