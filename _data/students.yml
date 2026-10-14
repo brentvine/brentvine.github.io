@@ -1,5 +1,5 @@
 # Generated from the May 2026 CV (“Dissertation advising”; completed dissertations only).
-# pdf: free copy (eScholarship etc.) under assets/pdf/dissertations/; links: its source page,
+# pdf: copy (eScholarship, or a ProQuest download) under assets/pdf/dissertations/; links: its source page,
 # or the ProQuest Dissertations & Theses record when there is no free copy.
 groups:
   - role: "Director"
@@ -8,6 +8,7 @@ groups:
         title: "<em>The Greek Reduplicated Aorist</em>"
         institution: "Yale University, Department of Linguistics"
         year: "1996"
+        pdf: "/assets/pdf/dissertations/beckwith-1996.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/304304838"
@@ -23,6 +24,7 @@ groups:
         title: "<em>Les désinences personelles de l’indo-européen</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2004"
+        pdf: "/assets/pdf/dissertations/cavoto-2004.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/305217289"
@@ -30,6 +32,7 @@ groups:
         title: "<em>Studies in Greek and Vedic Prosody, Morphology and Meter</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2010"
+        pdf: "/assets/pdf/dissertations/gunkel-2010.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/818740452"
@@ -70,6 +73,7 @@ groups:
         title: "<em>The Latin Saturnian and Italic Verse</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2006"
+        pdf: "/assets/pdf/dissertations/mercado-2006.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/305374582"
@@ -85,6 +89,7 @@ groups:
         title: "<em>Vowel Reduction and Deletion in Italic: Effects of Stress</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2008"
+        pdf: "/assets/pdf/dissertations/nishimura-2008.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/304649069"
@@ -92,6 +97,7 @@ groups:
         title: "<em>Latin</em> -tās <em>and Related Forms</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2011"
+        pdf: "/assets/pdf/dissertations/pike-2011.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/910258372"
@@ -124,6 +130,7 @@ groups:
         title: "<em>The Indo-European Primary</em> t-<em>stems</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2006"
+        pdf: "/assets/pdf/dissertations/vijunas-2006.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/305368948"
@@ -149,6 +156,7 @@ groups:
         title: "<em>Roman Foundations: Constructing Civic Identity in Late Medieval Italy</em>"
         institution: "UCLA, Department of History"
         year: "2004"
+        pdf: "/assets/pdf/dissertations/benes-2004.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/305198544"
@@ -172,6 +180,7 @@ groups:
         title: "<em>From Minos to Midas: The Organization of Textile Production in the Aegean and in Anatolia</em>"
         institution: "UCLA, Program in Archaeology"
         year: "1998"
+        pdf: "/assets/pdf/dissertations/burke-1998.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/304411674"
@@ -203,6 +212,7 @@ groups:
         title: "<em>The Poetics of Envy in Lucan’s</em> Bellum Civile"
         institution: "UCLA, Department of Classics"
         year: "2003"
+        pdf: "/assets/pdf/dissertations/easton-2003.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/305348678"
@@ -210,6 +220,7 @@ groups:
         title: "<em>Catullus, Callimachus, and Martial: Composition in Greek and Latin Epigram</em>"
         institution: "UCLA, Department of Classics"
         year: "2005"
+        pdf: "/assets/pdf/dissertations/fain-2005.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/305033510"
@@ -217,6 +228,7 @@ groups:
         title: "<em>The Lucani Between Greece and Rome: A Literary Analysis of their History to the End of the Social War</em>"
         institution: "UCLA, Department of History"
         year: "2010"
+        pdf: "/assets/pdf/dissertations/favelo-2010.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/814712327"
@@ -224,6 +236,7 @@ groups:
         title: "<em>Derivational Morphology of the Early Irish Verbal Noun</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2012"
+        pdf: "/assets/pdf/dissertations/gordon-2012.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/926578309"
@@ -231,6 +244,7 @@ groups:
         title: "<em>The Dissemination of North African Christian and Intellectual Culture in Late Antiquity</em>"
         institution: "UCLA, Department of History"
         year: "2005"
+        pdf: "/assets/pdf/dissertations/graham-2005.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/305000762"
@@ -246,6 +260,7 @@ groups:
         title: "<em>Diglosia en el Perú Colonial</em>"
         institution: "UCLA, Department of Spanish and Portuguese"
         year: "2010"
+        pdf: "/assets/pdf/dissertations/helmer-2010.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/814730735"
@@ -253,6 +268,7 @@ groups:
         title: "<em>In the Eye of the Beholder: Quantificational, Pragmatic and Aspectual Features of the</em> *bi- <em>Verbal Prefix in Sumerian</em>"
         institution: "UCLA, Department of Near Eastern Languages and Cultures"
         year: "2004"
+        pdf: "/assets/pdf/dissertations/johnson-2004.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/305214702"
@@ -268,6 +284,7 @@ groups:
         title: "<em>Talking Trojan: The Poetics of the Iliad’s Others</em>"
         institution: "Princeton University, Department of Classics"
         year: "1993"
+        pdf: "/assets/pdf/dissertations/mackie-1993.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/304099432"
@@ -283,6 +300,7 @@ groups:
         title: "<em>Internal Structure of Consonants: Evidence from Prevocalization</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2007"
+        pdf: "/assets/pdf/dissertations/operstein-2007.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/304878513"
@@ -298,6 +316,7 @@ groups:
         title: "<em>The Relative Chronology of Some Major Latin Sound Changes</em>"
         institution: "Yale University, Department of Classics"
         year: "1986"
+        pdf: "/assets/pdf/dissertations/parker-1986.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/303521101"
@@ -305,6 +324,7 @@ groups:
         title: "<em>The Poetics of Sleep: Representing Dreams and Sleep in Latin Literature and Roman Art</em>"
         institution: "UCLA, Department of Classics"
         year: "2005"
+        pdf: "/assets/pdf/dissertations/scioli-2005.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/305032947"
@@ -344,6 +364,7 @@ groups:
         title: "<em>The Origin and Development of Adpositions and Adpositional Phrases in the Indo-European Languages</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2001"
+        pdf: "/assets/pdf/dissertations/wilhelm-2001.pdf"
         links:
           - label: "Abstract (Lituanistika)"
             url: "https://www.lituanistika.lt/content/75540"
@@ -353,6 +374,7 @@ groups:
         title: "<em>The Origin and Function of Female Divinity in Pre-Christian Germanic Europe</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "1999"
+        pdf: "/assets/pdf/dissertations/wilson-1999.pdf"
         links:
           - label: "ProQuest"
             url: "https://www.proquest.com/docview/304495877"
