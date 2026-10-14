@@ -32,6 +32,12 @@ nav_order: 4
           <strong>{{ s.name }}</strong>{% if s.co_director %}<span class="cv-badge">co-director</span>{% endif %}
           <div>{{ s.title }}</div>
           <div class="cv-meta">{{ s.institution }}</div>
+          {% if s.pdf or s.links %}
+            <div class="cv-links">
+              {% if s.pdf %}<a href="{{ s.pdf | relative_url }}" target="_blank" rel="noopener">PDF</a>{% endif %}
+              {% for link in s.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>{% endfor %}
+            </div>
+          {% endif %}
         </div>
       </li>
     {% endfor %}
