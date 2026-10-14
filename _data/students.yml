@@ -1,5 +1,6 @@
 # Generated from the May 2026 CV (“Dissertation advising”; completed dissertations only).
-# pdf: free copy (eScholarship etc.) under assets/pdf/dissertations/; links: its source page.
+# pdf: free copy (eScholarship etc.) under assets/pdf/dissertations/; links: its source page,
+# or the ProQuest Dissertations & Theses record when there is no free copy.
 groups:
   - role: "Director"
     entries:
@@ -7,6 +8,9 @@ groups:
         title: "<em>The Greek Reduplicated Aorist</em>"
         institution: "Yale University, Department of Linguistics"
         year: "1996"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/304304838"
       - name: "C. Bozzone"
         title: "<em>Constructions: A New Approach to Formularity, Discourse, and Syntax in Homer</em>"
         institution: "UCLA, Program in Indo-European Studies"
@@ -19,10 +23,16 @@ groups:
         title: "<em>Les désinences personelles de l’indo-européen</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2004"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/305217289"
       - name: "D. Gunkel"
         title: "<em>Studies in Greek and Vedic Prosody, Morphology and Meter</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2010"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/818740452"
       - name: "E. Lemay"
         title: "<em>Studies in Merovingian Latin Epigraphy and Documents</em>"
         institution: "UCLA, Program in Indo-European Studies"
@@ -60,6 +70,9 @@ groups:
         title: "<em>The Latin Saturnian and Italic Verse</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2006"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/305374582"
       - name: "T. Minamimoto"
         title: "<em>Subordinators and Supradialectal Formulas in the Dialectal Inscriptions from Mainland Greece (Excluding Attica)</em>"
         institution: "UCLA, Program in Indo-European Studies"
@@ -72,10 +85,16 @@ groups:
         title: "<em>Vowel Reduction and Deletion in Italic: Effects of Stress</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2008"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/304649069"
       - name: "M. Pike"
         title: "<em>Latin</em> -tās <em>and Related Forms</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2011"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/910258372"
       - name: "P. Sabattini"
         title: "<em>Greek and Indo-European Syllabification: A Study from the Materiality of Writing to Phonological Analysis</em>"
         institution: "UCLA, Program in Indo-European Studies"
@@ -105,6 +124,9 @@ groups:
         title: "<em>The Indo-European Primary</em> t-<em>stems</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2006"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/305368948"
       - name: "C. Zhang"
         title: "<em>Studies in the Greek Thematic Aorist: Root Vocalism and Stem Distribution Patterns</em>"
         institution: "UCLA, Program in Indo-European Studies"
@@ -127,6 +149,9 @@ groups:
         title: "<em>Roman Foundations: Constructing Civic Identity in Late Medieval Italy</em>"
         institution: "UCLA, Department of History"
         year: "2004"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/305198544"
       - name: "H. Bork"
         title: "<em>A Rough Guide to Insult in Plautus</em>"
         institution: "UCLA, Department of Classics"
@@ -147,6 +172,9 @@ groups:
         title: "<em>From Minos to Midas: The Organization of Textile Production in the Aegean and in Anatolia</em>"
         institution: "UCLA, Program in Archaeology"
         year: "1998"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/304411674"
       - name: "J. Clayton"
         title: "<em>The Development of the Indo-European *</em>-wr̥-/-wen-<em>Heteroclites in Sanskrit and Beyond</em>"
         institution: "UCLA, Program in Indo-European Studies"
@@ -175,22 +203,37 @@ groups:
         title: "<em>The Poetics of Envy in Lucan’s</em> Bellum Civile"
         institution: "UCLA, Department of Classics"
         year: "2003"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/305348678"
       - name: "G. Fain"
         title: "<em>Catullus, Callimachus, and Martial: Composition in Greek and Latin Epigram</em>"
         institution: "UCLA, Department of Classics"
         year: "2005"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/305033510"
       - name: "D. Favelo"
         title: "<em>The Lucani Between Greece and Rome: A Literary Analysis of their History to the End of the Social War</em>"
         institution: "UCLA, Department of History"
         year: "2010"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/814712327"
       - name: "R. Gordon"
         title: "<em>Derivational Morphology of the Early Irish Verbal Noun</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2012"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/926578309"
       - name: "S. Graham"
         title: "<em>The Dissemination of North African Christian and Intellectual Culture in Late Antiquity</em>"
         institution: "UCLA, Department of History"
         year: "2005"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/305000762"
       - name: "R. Groves"
         title: "<em>Cross-Language Communication in Heliodorus’</em> Aethiopica"
         institution: "UCLA, Department of Classics"
@@ -203,10 +246,16 @@ groups:
         title: "<em>Diglosia en el Perú Colonial</em>"
         institution: "UCLA, Department of Spanish and Portuguese"
         year: "2010"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/814730735"
       - name: "J. C. Johnson"
         title: "<em>In the Eye of the Beholder: Quantificational, Pragmatic and Aspectual Features of the</em> *bi- <em>Verbal Prefix in Sumerian</em>"
         institution: "UCLA, Department of Near Eastern Languages and Cultures"
         year: "2004"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/305214702"
       - name: "B. Koller"
         title: "<em>Studies in Tocharian Phonology Above the Word-Level</em>"
         institution: "UCLA, Program in Indo-European Studies"
@@ -219,6 +268,9 @@ groups:
         title: "<em>Talking Trojan: The Poetics of the Iliad’s Others</em>"
         institution: "Princeton University, Department of Classics"
         year: "1993"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/304099432"
       - name: "T. Onishi"
         title: "<em>Pronominal Clitics in Tocharian: A Study in the Morphology-Syntax Interface</em>"
         institution: "UCLA, Program in Indo-European Studies"
@@ -231,6 +283,9 @@ groups:
         title: "<em>Internal Structure of Consonants: Evidence from Prevocalization</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "2007"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/304878513"
       - name: "K. Ozolins"
         title: "<em>Revisiting Proto-Indo-European Schwebeablaut</em>"
         institution: "UCLA, Program in Indo-European Studies"
@@ -243,10 +298,16 @@ groups:
         title: "<em>The Relative Chronology of Some Major Latin Sound Changes</em>"
         institution: "Yale University, Department of Classics"
         year: "1986"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/303521101"
       - name: "E. Scioli"
         title: "<em>The Poetics of Sleep: Representing Dreams and Sleep in Latin Literature and Roman Art</em>"
         institution: "UCLA, Department of Classics"
         year: "2005"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/305032947"
       - name: "M. Southern"
         title: "<em>The Wandering S: The Problem of the s-mobile in Germanic and Indo-European</em>"
         institution: "Princeton University, Department of Germanic Languages and Literatures"
@@ -254,10 +315,15 @@ groups:
         links:
           - label: "Abstract (LINGUIST List)"
             url: "https://linguistlist.org/issues/16/2543"
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/304372948"
       - name: "C. M. Thompson"
         title: "<em>Silver in the Age of Iron and the Orientalizing Economics of Archaic Greece</em>"
         institution: "UCLA, Department of Classics"
         year: "2007"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/304875343"
       - name: "E. Thornton"
         title: "<em>The Double-voiced Rig Veda: Poetics and Power Dynamics of Formal Structuring Devices</em>"
         institution: "UCLA, Program in Indo-European Studies"
@@ -281,10 +347,15 @@ groups:
         links:
           - label: "Abstract (Lituanistika)"
             url: "https://www.lituanistika.lt/content/75540"
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/275836695"
       - name: "M. L. Wilson"
         title: "<em>The Origin and Function of Female Divinity in Pre-Christian Germanic Europe</em>"
         institution: "UCLA, Program in Indo-European Studies"
         year: "1999"
+        links:
+          - label: "ProQuest"
+            url: "https://www.proquest.com/docview/304495877"
       - name: "A. D. Yates"
         title: "<em>Lexical Accent in Cupeño, Hittite, and Indo-European</em>"
         institution: "UCLA, Program in Indo-European Studies"
