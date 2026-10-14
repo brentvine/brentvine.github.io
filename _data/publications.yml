@@ -1,5 +1,6 @@
 # Generated from the May 2026 CV. Each entry keeps the CV's citation text (HTML).
-# pdf: local copy under assets/pdf/publications/; academia: academia.edu paper id.
+# pdf: local copy under assets/pdf/publications/; academia: academia.edu paper id;
+# links: free copies elsewhere (BMCR, UCLA PIES, CHS, publisher open access, ...).
 sections:
   - title: "Books"
     entries:
@@ -36,6 +37,10 @@ sections:
         citation: "“Remarks on African Shadow Vowels”; <em>Harvard Studies in Phonology</em> 2 (ed. G. N. Clements), 383-427."
       - label: "1984"
         citation: "“African ‘Shadow Vowels’: A Descriptive Survey”; <em>Studies in the Linguistic Sciences</em> 14, 127-137."
+        pdf: "/assets/pdf/publications/vine-article-1984.pdf"
+        links:
+          - label: "Internet Archive"
+            url: "https://archive.org/details/studiesinlinguis1421519841985univ"
       - label: "1985"
         citation: "“On the Germanic Type <em>lūkan</em>”; <em>Zeitschrift für vergleichende Sprachforschung</em> (KZ) 98, 60-81."
       - label: "1986a"
@@ -108,10 +113,22 @@ sections:
         academia: "84317005"
       - label: "1999a"
         citation: "“Greek ῥίζα ‘root’ and ‘schwa secundum’”; in <em>UCLA Indo-European Studies</em> (vol. 1), ed. V. Ivanov and B. Vine (Los Angeles: UCLA Program in IE Studies), 5-29."
+        pdf: "/assets/pdf/publications/vine-article-1999a.pdf"
+        links:
+          - label: "UCLA PIES"
+            url: "https://pies.ucla.edu/publications/ucla-ies-v1/"
       - label: "1999b"
         citation: "“Latin<em> -īnāre/-īnārī</em>”; in <em>UCLA Indo-European Studies</em> (vol. 1), ed. V. Ivanov and B. Vine (Los Angeles: UCLA Program in IE Studies), 71-84."
+        pdf: "/assets/pdf/publications/vine-article-1999b.pdf"
+        links:
+          - label: "UCLA PIES"
+            url: "https://pies.ucla.edu/publications/ucla-ies-v1/"
       - label: "1999c"
         citation: "“A Note on the Duenos Inscription”; in<em> UCLA Indo-European Studies</em> (vol. 1), ed. V. Ivanov and B. Vine (Los Angeles: UCLA Program in IE Studies), 293-305."
+        pdf: "/assets/pdf/publications/vine-article-1999c.pdf"
+        links:
+          - label: "UCLA PIES"
+            url: "https://pies.ucla.edu/publications/ucla-ies-v1/"
       - label: "1999d"
         citation: "“On ‘Cowgill’s Law’ in Greek”; in <em>Compositiones Indogermanicae in Memoriam Jochem Schindler,</em> ed. H. Eichner and H. C. Luschützky (Prague/Vienna: enigma), 555-600."
       - label: "1999e"
@@ -142,6 +159,10 @@ sections:
         academia: "39242245"
       - label: "2004c"
         citation: "“CIL I<sup>2</sup> 607 L.I.XXVI”; <em>Newsletter of the American Society of Greek and Latin Epigraphy</em> 18:1-2, 10-12."
+        pdf: "/assets/pdf/publications/vine-article-2004c.pdf"
+        links:
+          - label: "ASGLE"
+            url: "https://www.asgle.org/wp-content/uploads/2016/10/ASGLE-Bulletin-8-12-Fall-2004.pdf"
       - label: "2004d[2002]"
         citation: "“Att. ἐρωτάω, Ion. εἰρωτάω ‘ask’; <em>Glotta</em> 78, 203-221."
       - label: "2005"
@@ -254,8 +275,15 @@ sections:
       - label: "2019c"
         citation: "“Greek στωμύλος ‘chatty’: An anomalous <em>ō-</em>grade (and some anomalous <em>o-</em>grades)”; <em>Indo-European Linguistics</em> 7, 222-240."
         academia: "46407862"
+        pdf: "/assets/pdf/publications/vine-article-2019c.pdf"
+        links:
+          - label: "Brill (open access)"
+            url: "https://doi.org/10.1163/22125892-00701003"
       - label: "2020"
         citation: '(with Elizabeth Barber, Thomas Palaima, and Rachele Pierini) “MASt @ CHS — Friday, June 26, 2020: Summaries of presentations and discussion”; <em>Classical Inquiries</em> (Studies on the Ancient World from the Center for Hellenic Studies). <a href="https://classical-inquiries.chs.harvard.edu/mast-chs-friday-june-26-2020-summaries-of-presentations-and-discussion/">https://classical-inquiries.chs.harvard.edu/mast-chs-friday-june-26-2020-summaries-of-presentations-and-discussion/</a>'
+        links:
+          - label: "Classical Inquiries (CHS)"
+            url: "https://classical-inquiries.chs.harvard.edu/mast-chs-friday-june-26-2020-summaries-of-presentations-and-discussion/"
       - label: "2021a"
         citation: "“Latin <em>fimus/fimum</em> ‘fumier’ et PIE *<em>-mo-</em> secondaire”; in <em>Dérivation nominale et innovations dans les langues indo-européennes anciennes</em>, ed. A. Blanc and I. Boehm (Lyon: Maison de l’Orient et de la Méditerranée Jean Pouilloux), 241-252."
         pdf: "/assets/pdf/publications/vine-article-2021a.pdf"
@@ -282,6 +310,9 @@ sections:
         citation: "“Latin <em>famēs</em> ‘hunger’”; in GARY HOLLAND ΜΝΕΙΑΣ ΧΑΡΙΝ. <em>Indo-European and Related Studies in Memory of Gary B. Holland</em>, ed. Roslyn Burns, Alfredo Rizza, and Marina Zorman. Wiesbaden: Reichert, 243-253."
       - label: "2026c"
         citation: '“Discussing Wright’s Talk ‘What’s in a Name? Kommos as Amyklai in the Late Bronze Age and the Classical Era. Implications for Relations with Lakonia and the Eastern Mediterranean’,” in Pierini, R. and T. Palaima (eds). 2026. <em>Naming Kommos. Structured Discussion on Kommos as Amyklai in the Aegean Bronze Age and its Implications for Relations with Lakonia and the Eastern Mediterranean. MASt Trans-action of the Winter 2026 Seminar, January 23</em>. <em>Classical Continuum</em>: §§52-60. DOI: <a href="https://DOI.org/10.71160/QDTH1278">https://DOI.org/10.71160/QDTH1278</a>'
+        links:
+          - label: "Classical Continuum (CHS)"
+            url: "https://doi.org/10.71160/QDTH1278"
       - label: "[in press]"
         citation: "“‘Dead Eyes”’ in Petronius? (Sat. 62.10 <em>oculi mortui</em>, 68.8 <em>oculo mortuo</em>)”; <em>Hermes.</em>"
       - label: "[forthcoming]"
@@ -304,8 +335,14 @@ sections:
         citation: "C. Renfrew, <em>Archaeology and Language: The Problem of Indo-European Origins; Classical World </em>83, 359."
       - label: "1993"
         citation: "J. Gager, <em>Curse Tablets and Binding Spells from the Ancient World; Bryn Mawr Classical Review</em> 4, 91-94."
+        links:
+          - label: "BMCR"
+            url: "https://bmcr.brynmawr.edu/1993/1993.02.03/"
       - label: "1994"
         citation: "comment on P. Keyser, review of J. Riddle, <em>Contraception and Abortion from the Ancient World to the Renaissance; Bryn Mawr Classical Review</em> 5, 84-85."
+        links:
+          - label: "BMCR"
+            url: "https://bmcr.brynmawr.edu/1994/1994.03.18/"
       - label: "1995"
         citation: "B. Boyce, <em>The Language of the Freedmen in Petronius’ Cena Trimalchionis;</em> <em>Gnomon</em> 67, 112-117."
       - label: "1996"
@@ -320,12 +357,27 @@ sections:
         citation: "J. Wills, <em>Repetition in Latin Poetry: Figures of Allusion;</em> <em>The Classical Journal</em> 94.2, 195-200."
       - label: "1999"
         citation: "“Recent Work from St. Petersburg, I: Classical and Indo-European Linguistics, Celtic Studies”, in <em>UCLA Indo-European Studies</em> (vol. 1), ed. V. Ivanov and B. Vine (UCLA Program in IE Studies), 311-320."
+        pdf: "/assets/pdf/publications/vine-review-1999.pdf"
+        links:
+          - label: "UCLA PIES"
+            url: "https://pies.ucla.edu/publications/ucla-ies-v1/"
       - label: "2000a"
         citation: "L. Callebat, <em>Langages du roman latin; Bryn Mawr Classical Review</em> 00.04.06."
+        links:
+          - label: "BMCR"
+            url: "https://bmcr.brynmawr.edu/2000/2000.04.06/"
       - label: "2000b"
         citation: "B. García-Hernández (ed.), <em>Estudios de Lingüística Latina. Actas des IX Coloquio Internacional de Lingüística Latina;</em> <em>Friends and Alumni of Indo-European Studies Bulletin, UCLA</em> 9.1 (Mar./April), 27-29."
+        pdf: "/assets/pdf/publications/vine-review-2000b.pdf"
+        links:
+          - label: "FAIES Bulletin 9.1"
+            url: "https://ucla.box.com/v/PIES-FAIES-9-1"
       - label: "2000c"
         citation: "L. Campbell, <em>Historical Linguistics: An Introduction;</em> <em>Friends and Alumni of Indo-European Studies Bulletin, UCLA</em> 9.1 (Mar./April), 29-31."
+        pdf: "/assets/pdf/publications/vine-review-2000c.pdf"
+        links:
+          - label: "FAIES Bulletin 9.1"
+            url: "https://ucla.box.com/v/PIES-FAIES-9-1"
       - label: "2000d"
         citation: "J. E. Rasmussen, <em>Selected Papers on Indo-European Linguistics,</em> 2 vols.; <em>Anthropological Linguistics</em> 42.4, 580-583."
       - label: "2000e"
@@ -334,24 +386,49 @@ sections:
         citation: "G. Meiser, <em>Historische Laut- und Formenlehre der lateinischen Sprache; Kratylos</em> 46, 118-126."
       - label: "2001"
         citation: "Comment on J. Lateiner, review of James H. Dee, <em>Epitheta Hominum apud Homerum; Bryn Mawr Classical Review</em> 2001.01.21"
+        links:
+          - label: "BMCR"
+            url: "https://bmcr.brynmawr.edu/2001/2001.01.21/"
       - label: "2002"
         citation: "G. Meiser (ed.), <em>Kleine Schriften: Festgabe für Helmut Rix zum 75. Geburtstag;</em> <em>Friends and Alumni of Indo-European Studies Bulletin, UCLA</em> 10.1 (Feb./Mar.), 36."
+        pdf: "/assets/pdf/publications/vine-review-2002.pdf"
+        links:
+          - label: "FAIES Bulletin 10.1"
+            url: "https://ucla.box.com/v/PIES-FAIES-10-1"
       - label: "2005a"
         citation: "R. Oniga, <em>Il Latino: Breve introduzione linguistica;</em> <em>BMCR</em> 2005.08.34."
+        links:
+          - label: "BMCR"
+            url: "https://bmcr.brynmawr.edu/2005/2005.08.34/"
       - label: "2005b"
         citation: "R. Gerschner, <em>Die Deklination der Nomina bei Plautus; Kratylos</em> 50, 129-132."
       - label: "2006"
         citation: "O. Hackstein, <em>Die Sprachform der homerischen Epen</em> and D. Haug, <em>Les phases de l’évolution de la langue épique;</em> <em>Kratylos</em> 51, 144-149."
       - label: "2007"
         citation: "N. N. Kazansky (ed.), <em>Hṛdā́ mánasā</em>: <em>Sbornik statej k 70-letiju so dnja roždenija professora Leonarda Georgieviča Gercenberga,</em> and L. B. Konchuk (ed.), <em>A. I. Domašnev: Trudy po germanskomu jazykoznaniju i sociolingvistike;</em> <em>Friends and Alumni of Indo-European Studies Bulletin, UCLA</em> 11.2 (March), 8-9."
+        pdf: "/assets/pdf/publications/vine-review-2007.pdf"
+        links:
+          - label: "FAIES Bulletin 11.2"
+            url: "https://ucla.box.com/v/PIES-FAIES-11-2"
       - label: "2008"
         citation: "M. Hartmann, <em>Die frühlateinischen Inschriften und ihre Datierung;</em> <em>Friends and Alumni of Indo-European Studies Bulletin, UCLA</em> 12:2, 27-31."
+        pdf: "/assets/pdf/publications/vine-review-2008.pdf"
+        links:
+          - label: "FAIES Bulletin 12.2"
+            url: "https://ucla.box.com/v/PIES-FAIES-12-2"
       - label: "2009a"
         citation: "J. Clackson and G. Horrocks, <em>The Blackwell History of the Latin Language;</em> <em>Bryn Mawr Classical Review</em> 2009.03.21."
+        links:
+          - label: "BMCR"
+            url: "https://bmcr.brynmawr.edu/2009/2009.03.21/"
       - label: "2009b"
         citation: "C. George et al. (eds.), <em>Greek and Latin from an Indo-European Perspective;</em> <em>Classical Review</em> 59.2, 331-333."
       - label: "2009c"
         citation: "A. Blanc, <em>Les contraintes métriques dans la poésie homérique: L’emploi des thèmes nominaux sigmatiques dans l’hexamètre dactylique;</em> <em>Friends and Alumni of Indo-European Studies Bulletin, UCLA</em> 14:1-2, 51-54."
+        pdf: "/assets/pdf/publications/vine-review-2009c.pdf"
+        links:
+          - label: "FAIES Bulletin 14"
+            url: "https://ucla.box.com/v/PIES-FAIES-14"
       - label: "2011"
         citation: "J. Kaimio, <em>The Cippus Inscriptions of Museo Nazionale di Tarquinia; Etruscan Studies</em> 14, 217-220."
       - label: "2012"
@@ -360,6 +437,9 @@ sections:
         citation: "G. Sarullo, <em>Il</em> Carmen Saliare: <em>Indagini filologiche e riflessioni linguistiche;</em> <em>Gnomon</em> 89, 699-702."
       - label: "2024"
         citation: "N. Zair, <em>Orthographic Traditions and the Sub-elite in the Roman Empire</em>; <em>Bryn Mawr Classical Review</em> 2024.04.09."
+        links:
+          - label: "BMCR"
+            url: "https://bmcr.brynmawr.edu/2024/2024.04.09/"
   - title: "Co-edited Books"
     entries:
       - label: "1987"
@@ -375,6 +455,9 @@ sections:
             "M. Peters, <em>Die Sprache</em> 39.3 (1997/2002) 99-103",
             "P. Schrijver, <em>Kratylos</em> 48 (2003) 89-93",
           ]
+        links:
+          - label: "UCLA PIES (free PDFs of each paper)"
+            url: "https://pies.ucla.edu/publications/ucla-ies-v1/"
       - label: "2009a"
         citation: "(ed., with K. Yoshida) <em>East and West: Papers in Indo-European Studies.</em> Bremen: Hempen Verlag. viii+312 pp."
         reviews:
@@ -425,6 +508,9 @@ sections:
         citation: "<em>“‘First It Killed the Romans…’: On Enlivening Latin Morphology”.</em> NECN Publications (Classical Association of New England). 13 pp."
       - label: "1998"
         citation: "article “Italic Languages” (sub-entry to article “Languages of the World”), in <em>Encyclopaedia Britannica,</em> 15<sup>th</sup> ed., <em>Macropaedia</em> vol. 22:618-621 (revision/updating of original material by J. Untermann), and associated <em>Micropaedia</em> articles (“Italic Languages”, “Faliscan Language”, “South Picene Language”, “Iguvine Tables”, etc.)."
+        links:
+          - label: "Britannica (current online version)"
+            url: "https://www.britannica.com/topic/Italic-languages"
       - label: "2014"
         citation: "“Calvert Watkins at UCLA”. In S. W. Jamison, H. C. Melchert, and B. Vine (eds.), <em>Proceedings of the 25<sup>th</sup> Annual UCLA Indo-European Conference</em> (Bremen: Hempen), 18-19."
       - label: "2015"

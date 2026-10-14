@@ -43,10 +43,11 @@ nav_order: 2
             {% for review in pub.reviews %}<li>{{ review }}</li>{% endfor %}
             </ul>
           {% endif %}
-          {% if pub.pdf or pub.academia %}
+          {% if pub.pdf or pub.academia or pub.links %}
             <div class="cv-links">
               {% if pub.pdf %}<a href="{{ pub.pdf | relative_url }}" target="_blank" rel="noopener">PDF</a>{% endif %}
               {% if pub.academia %}<a href="https://www.academia.edu/{{ pub.academia }}/" target="_blank" rel="noopener">academia.edu</a>{% endif %}
+              {% for link in pub.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>{% endfor %}
             </div>
           {% endif %}
         </div>
