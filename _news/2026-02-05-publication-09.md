@@ -2,6 +2,9 @@
 date: 2026-02-05
 year_label: "2026"
 kind: publication
+links:
+  - label: "Classical Continuum (CHS)"
+    url: "https://doi.org/10.71160/QDTH1278"
 inline: true
 related_posts: false
 ---

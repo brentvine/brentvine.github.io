@@ -27,7 +27,7 @@ See the [publications](/publications/) page for a full list of books, articles, 
 {% assign recent = site.news | where: "kind", "publication" | sort: "date" | reverse %}
 <ul class="cv-list">
 {% for item in recent %}{% unless item.year_label == "Forthcoming" or item.year_label == "In press" %}
-<li class="cv-entry"><div class="cv-label">{{ item.year_label }}</div><div>{{ item.content | remove: "<p>" | remove: "</p>" }}</div></li>
+<li class="cv-entry"><div class="cv-label">{{ item.year_label }}</div><div><div class="cv-citation">{{ item.content | remove: "<p>" | remove: "</p>" }}</div>{% if item.pdf or item.links %}<div class="cv-links">{% if item.pdf %}<a href="{{ item.pdf | relative_url }}" target="_blank" rel="noopener">PDF</a>{% endif %}{% for link in item.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>{% endfor %}</div>{% endif %}</div></li>
 {% endunless %}{% endfor %}
 </ul>
 

@@ -2,6 +2,7 @@
 date: 2026-02-04
 year_label: "2026"
 kind: publication
+pdf: "/assets/pdf/publications/vine-article-2026b.pdf"
 inline: true
 related_posts: false
 ---
