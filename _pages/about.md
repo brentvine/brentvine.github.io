@@ -19,3 +19,16 @@ latest_posts:
 ---
 
 See the [publications](/publications/) page for a full list of books, articles, reviews and edited volumes, and the [talks](/talks/) page for conference papers and invited lectures since 1979.
+
+<!-- Recently published: publication items from _news/ with a year label (forthcoming and in-press items are left out) -->
+
+<h2>Recently published</h2>
+
+{% assign recent = site.news | where: "kind", "publication" | sort: "date" | reverse %}
+<ul class="cv-list">
+{% for item in recent %}{% unless item.year_label == "Forthcoming" or item.year_label == "In press" %}
+<li class="cv-entry"><div class="cv-label">{{ item.year_label }}</div><div>{{ item.content | remove: "<p>" | remove: "</p>" }}</div></li>
+{% endunless %}{% endfor %}
+</ul>
+
+Forthcoming work and recent talks are listed under [news](/news/).
