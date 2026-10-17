@@ -15,6 +15,7 @@ sections:
             "B. Fortson, <em>Language</em> 71.1 (1995) 213-4",
             "R. Gerschner, <em>Die Sprache</em> 38.2 (1996) 231-7",
           ]
+        pdf: "/assets/pdf/publications/vine-book-1993.pdf"
       - label: "1998"
         citation: "<em>Aeolic ὄρπετον and Deverbative *-etó- in Greek and Indo-European.</em> Innsbruck: Innsbrucker Beiträge zur Sprachwissenschaft, Vorträge und Kleinere Schriften, no. 71. 92 pp. (Index Verborum: see “2016” under “Pedagogical/Miscellaneous” below.)"
         reviews:
@@ -526,35 +527,71 @@ sections:
       - label: "2010"
         citation: "(ed., with S. Jamison and H. C. Melchert) <em>Proceedings of the Twenty-First Annual UCLA Indo-European Conference.</em> Bremen: Hempen Verlag. viii+246 pp."
         reviews: ["N. Zair, <em>Kratylos</em> 57 (2012) 78-83"]
+        links:
+          - label: "Buske (publisher)"
+            url: "https://buske.de/hbv_de/proceedings-of-the-21st-annual-ucla-indo-european-conference-18527"
       - label: "2011"
         citation: "(ed., with S. Jamison and H. C. Melchert) <em>Proceedings of the Twenty-Second Annual UCLA Indo-European Conference.</em> Bremen: Hempen Verlag. viii+276 pp."
+        links:
+          - label: "Buske (publisher)"
+            url: "https://buske.de/hbv_de/proceedings-of-the-22nd-annual-ucla-indo-european-conference-18959"
       - label: "2012"
         citation: "(ed., with S. Jamison and H. C. Melchert) <em>Proceedings of the Twenty-Third Annual UCLA Indo-European Conference.</em> Bremen: Hempen Verlag. viii+213 pp."
+        links:
+          - label: "Buske (publisher)"
+            url: "https://buske.de/hbv_de/proceedings-of-the-23rd-annual-ucla-indo-european-conference-18528"
       - label: "2013"
         citation: "(ed., with S. Jamison and H. C. Melchert) <em>Proceedings of the Twenty-Fourth Annual UCLA Indo-European Conference.</em> Bremen: Hempen Verlag. viii+257 pp."
+        links:
+          - label: "Buske (publisher)"
+            url: "https://buske.de/hbv_de/proceedings-of-the-24th-annual-ucla-indo-european-conference-18524"
       - label: "2014"
         citation: "(ed., with S. Jamison and H. C. Melchert) <em>Proceedings of the Twenty-Fifth Annual UCLA Indo-European Conference.</em> Bremen: Hempen Verlag. x+281 pp."
+        links:
+          - label: "Buske (publisher)"
+            url: "https://buske.de/hbv_de/proceedings-of-the-25th-annual-ucla-indo-european-conference-18526"
       - label: "2016a"
         citation: "(ed., with S. Jamison and H. C. Melchert) <em>Proceedings of the Twenty-Sixth Annual UCLA Indo-European Conference.</em> Bremen: Hempen Verlag. viii + 180 pp."
+        links:
+          - label: "Buske (publisher)"
+            url: "https://buske.de/hbv_de/proceedings-of-the-26th-annual-ucla-indo-european-conference-19202"
       - label: "2016b"
         citation: "(ed., with D. Gunkel, J. T. Katz and M. Weiss) <em>Sahasram Ati Srajas: Indo-Iranian and Indo-European Studies in Honor of Stephanie W. Jamison.</em> Ann Arbor: Beech Stave. xxii + 515 pp."
         reviews: ["R. Schmitt, <em>Kratylos</em> 62 (2017) 162-70"]
         academia: "23679403"
       - label: "2016c"
         citation: "(ed., with D. Goldstein and S. Jamison) <em>Proceedings of the Twenty-Seventh Annual UCLA Indo-European Conference.</em> Bremen: Hempen Verlag. viii + 261 pp."
+        links:
+          - label: "Buske (publisher)"
+            url: "https://buske.de/hbv_de/proceedings-of-the-27th-annual-ucla-indo-european-conference-18830"
       - label: "2018a"
         citation: "(ed., with D. Goldstein and S. Jamison) <em>Proceedings of the Twenty-Eighth Annual UCLA Indo-European Conference.</em> Bremen: Hempen Verlag. viii + 290 pp."
+        links:
+          - label: "Buske (publisher)"
+            url: "https://buske.de/hbv_de/proceedings-of-the-28th-annual-ucla-indo-european-conference-18960"
       - label: "2018b"
         citation: "(ed., with D. Goldstein and S. Jamison) <em>Proceedings of the Twenty-Ninth Annual UCLA Indo-European Conference.</em> Bremen: Hempen Verlag. viii + 283 pp."
+        links:
+          - label: "Buske (publisher)"
+            url: "https://buske.de/hbv_de/proceedings-of-the-29th-annual-ucla-indo-european-conference-18961"
       - label: "2019a"
         citation: "(ed., with A. Catt and R. Kim) <em>QAZZU warrai: Anatolian and Indo-European Studies in Honor of Kazuhiko Yoshida.</em> Ann Arbor: Beech Stave. xviii + 445 pp."
         academia: "41277637"
       - label: "2019b"
         citation: "(ed., with D. Goldstein and S. Jamison) <em>Proceedings of the Thirtieth Annual UCLA Indo-European Conference.</em> Bremen: Hempen Verlag. viii + 233 pp."
+        links:
+          - label: "Buske (publisher)"
+            url: "https://buske.de/hbv_de/proceedings-of-the-30th-annual-ucla-indo-european-conference-18962"
       - label: "2020"
         citation: "(ed., with D. Goldstein and S. Jamison) <em>Proceedings of the Thirty-First Annual UCLA Indo-European Conference.</em> Hamburg: Buske Verlag. viii + 280 pp."
+        links:
+          - label: "Buske (publisher)"
+            url: "https://buske.de/hbv_de/proceedings-of-the-31st-annual-ucla-indo-european-conference-15892"
       - label: "2022"
         citation: "(ed., with D. Goldstein and S. Jamison) <em>Proceedings of the Thirty-Second Annual UCLA Indo-European Conference.</em> Hamburg: Buske Verlag. viii + 312 pp."
+        links:
+          - label: "Buske (publisher)"
+            url: "https://buske.de/hbv_de/proceedings-of-the-32nd-annual-ucla-indo-european-conference-13528"
   - title: "Pedagogical / Miscellaneous"
     entries:
       - label: "1988"
