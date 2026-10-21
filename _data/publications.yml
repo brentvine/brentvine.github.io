@@ -23,6 +23,10 @@ sections:
             "A. Blanc, <em>Bulletin de la Société de Linguistique de Paris</em> 96.2 (2001) 150-2",
             "M. Meier-Brügger, <em>Kratylos</em> 47 (2002) 179-81",
           ]
+        pdf: "/assets/pdf/publications/vine-book-1998.pdf"
+        links:
+          - label: "Index Verborum (academia.edu)"
+            url: "https://www.academia.edu/23851358/"
   - title: "Articles"
     entries:
       - label: "1977"
@@ -400,6 +404,7 @@ sections:
             url: "https://bmcr.brynmawr.edu/1994/1994.03.18/"
       - label: "1995"
         citation: "B. Boyce, <em>The Language of the Freedmen in Petronius’ Cena Trimalchionis;</em> <em>Gnomon</em> 67, 112-117."
+        pdf: "/assets/pdf/publications/vine-review-1995.pdf"
       - label: "1996"
         citation: "J. Herman (ed.), <em>Linguistic Studies on Latin</em> and G. Calboli (ed.), <em>Papers on Grammar IV; Classical Outlook</em> 73, 103."
       - label: "1997a"
@@ -459,8 +464,10 @@ sections:
             url: "https://bmcr.brynmawr.edu/2005/2005.08.34/"
       - label: "2005b"
         citation: "R. Gerschner, <em>Die Deklination der Nomina bei Plautus; Kratylos</em> 50, 129-132."
+        pdf: "/assets/pdf/publications/vine-review-2005b.pdf"
       - label: "2006"
         citation: "O. Hackstein, <em>Die Sprachform der homerischen Epen</em> and D. Haug, <em>Les phases de l’évolution de la langue épique;</em> <em>Kratylos</em> 51, 144-149."
+        pdf: "/assets/pdf/publications/vine-review-2006.pdf"
       - label: "2007"
         citation: "N. N. Kazansky (ed.), <em>Hṛdā́ mánasā</em>: <em>Sbornik statej k 70-letiju so dnja roždenija professora Leonarda Georgieviča Gercenberga,</em> and L. B. Konchuk (ed.), <em>A. I. Domašnev: Trudy po germanskomu jazykoznaniju i sociolingvistike;</em> <em>Friends and Alumni of Indo-European Studies Bulletin, UCLA</em> 11.2 (March), 8-9."
         pdf: "/assets/pdf/publications/vine-review-2007.pdf"
@@ -492,8 +499,10 @@ sections:
         pdf: "/assets/pdf/publications/vine-review-2011.pdf"
       - label: "2012"
         citation: "M. de Vaan, <em>Etymological Dictionary of Latin and the other Italic Languages;</em> <em>Kratylos</em> 57, 1-40."
+        pdf: "/assets/pdf/publications/vine-review-2012.pdf"
       - label: "2017"
         citation: "G. Sarullo, <em>Il</em> Carmen Saliare: <em>Indagini filologiche e riflessioni linguistiche;</em> <em>Gnomon</em> 89, 699-702."
+        pdf: "/assets/pdf/publications/vine-review-2017.pdf"
       - label: "2024"
         citation: "N. Zair, <em>Orthographic Traditions and the Sub-elite in the Roman Empire</em>; <em>Bryn Mawr Classical Review</em> 2024.04.09."
         links:
@@ -608,18 +617,25 @@ sections:
             url: "https://www.britannica.com/topic/Italic-languages"
       - label: "2014"
         citation: "“Calvert Watkins at UCLA”. In S. W. Jamison, H. C. Melchert, and B. Vine (eds.), <em>Proceedings of the 25<sup>th</sup> Annual UCLA Indo-European Conference</em> (Bremen: Hempen), 18-19."
+        pdf: "/assets/pdf/publications/vine-misc-2014.pdf"
       - label: "2015"
         citation: "“Calvert Watkins (1933-2013)”. <em>Kratylos</em> 60, 179-82."
+        pdf: "/assets/pdf/publications/vine-misc-2015.pdf"
       - label: "2016"
         citation: 'Index Verborum for <em>Aeolic ὄρπετον and Deverbative *-etó- in Greek and Indo-European</em> (see “1998” under “Books” above). <a href="https://ucla.academia.edu/BrentVine">https://ucla.academia.edu/BrentVine</a>'
         academia: "23851358"
       - label: "2018a"
         citation: "“Remembrance: Vyacheslav Ivanov”. In D. Goldstein, S. Jamison, and B. Vine (eds.), <em>Proceedings of the 29<sup>th</sup> UCLA Indo-European Conference</em> (Bremen: Hempen), 1-4."
+        pdf: "/assets/pdf/publications/vine-misc-2018a.pdf"
       - label: "2018b"
         citation: "[with Ilya S. Yakubovich] “Vyacheslav Vs. Ivanov (1929-2017)”. <em>Aramazd: Armenian Journal of Near Eastern Studies</em> 12/2, 208-19."
         notes: ["Russian version: <em>Obščestvennye nauki i sovremennost’</em> 4 (2019), 6-15"]
-        pdf: "/assets/pdf/publications/vine-misc-2018b.pdf"
         academia: "41347764"
+        links:
+          - label: "PDF (Russian version, 2019)"
+            url: "/assets/pdf/publications/vine-misc-2018b.pdf"
+          - label: "Aramazd (DOI)"
+            url: "https://doi.org/10.32028/ajnes.v12i2.913"
   - title: "Scholarly Translations"
     entries:
       - label: ""

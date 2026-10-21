@@ -47,7 +47,7 @@ nav_order: 2
             <div class="cv-links">
               {% if pub.pdf %}<a href="{{ pub.pdf | relative_url }}" target="_blank" rel="noopener">PDF</a>{% endif %}
               {% if pub.academia %}<a href="https://www.academia.edu/{{ pub.academia }}/" target="_blank" rel="noopener">academia.edu</a>{% endif %}
-              {% for link in pub.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>{% endfor %}
+              {% for link in pub.links %}<a href="{% if link.url contains '://' %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}" target="_blank" rel="noopener">{{ link.label }}</a>{% endfor %}
             </div>
           {% endif %}
         </div>

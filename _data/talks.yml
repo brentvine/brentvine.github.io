@@ -292,3 +292,6 @@ talks:
     html: "<em>44<sup>th</sup> East Coast Indo-European Conference</em>, “Latin <em>paene</em> ‘almost’ and Related (?) Forms”"
   - year: 2026
     html: "<em>Graduate Seminar</em>, <em>Program in Indo-European Studies (UCLA)</em>, “Mycenaean Greek <em>ta-ra-si-ja</em> and <em>a-ta-ra-si-jo</em>, Alphabetic Greek ταλασία”"
+  - year: 2026
+    html: "<em>Hokkaido University</em>, <em>Slavic-Eurasian Research Center</em>, SRC Seminar “History Meets Linguistics II” [invited lecture]: “The Real Background of the So-Called ‘Roman’ Alphabet”"
+    invited: true
