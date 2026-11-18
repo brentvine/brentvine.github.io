@@ -163,7 +163,7 @@ sections:
         pdf: "/assets/pdf/publications/vine-article-1999f.pdf"
         academia: "36445358"
       - label: "2002a"
-        citation: '“Some ‘Trivial’ Remarks on the ‘Garigliano Bowl’ Inscription: A Response to P. Harvey (<em>JRA</em> 13, 2000)”; <a href="http://www.humnet.ucla.edu/olat">http://www.humnet.ucla.edu/olat</a>.'
+        citation: "“Some ‘Trivial’ Remarks on the ‘Garigliano Bowl’ Inscription: A Response to P. Harvey (<em>JRA</em> 13, 2000)”."
         pdf: "/assets/pdf/publications/vine-article-2002a.pdf"
         academia: "176412671"
       - label: "2002b"
